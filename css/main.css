@@ -1,13 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Teko:wght@300&600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Hind&display=swap");
 :root {
-  --clr-light: rgb(252, 241, 224);
-  --clr-dark: rgb(31, 59, 110);
-  --clr-pink: rgb(252, 190, 247);
+  --clr-light: rgb(224, 252, 236);
+  --clr-dark: rgb(31, 101, 110);
+  --clr-pink: rgb(212, 190, 252);
   --clr-white: #fff;
   --clr-gray: rgb(201, 201, 201);
   --clr-brown: #453639;
-  --clr-footer: #8a6a74;
+  --clr-footer: #8a736a;
   --ff-primary: 'Teko', sans-serif;
   --ff-secondary: 'Teko', sans-serif;
 }
