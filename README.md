@@ -14,7 +14,4 @@
 
 - ++++++
 
-more text
-MOAR
-
 ![Img](/folder.jpg)
