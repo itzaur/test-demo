@@ -20,7 +20,6 @@
 - [ ] Publish it
 > Comment :bug: ha-ha :bowtie: :blue_heart: :atom: ❤️
 
-777
 
 ```javascript
 function test() {
